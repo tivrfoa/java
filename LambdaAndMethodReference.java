@@ -16,8 +16,8 @@ class C {
 
         c.new_event()
 			.path("hello")
-			.name("Leandro")
-			.age(33);
+			.name("Johquim")
+			.age(113);
 
 		c.answerEvent("hello", "nice Thursday");
     }
